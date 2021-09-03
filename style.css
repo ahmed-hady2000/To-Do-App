@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(to left, rgb(129, 18, 18), rgb(12, 19, 17));
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+
+.container .card {
+    background: rgb(78, 75, 75);
+
+}
+
+#btnAdd {
+    background-color: rgb(129, 18, 18) !important;
+    color: white;
+}
+
+.container .btn:hover {
+    color: white;
+}
+
+#vv {
+    margin-top: 50px;
+}
+
+.none {
+    display: none;
+}
+
+.tasks {
+
+    padding: 10px;
+}
+
+.btn {
+
+    position: relative;
+    top: -7px;
+}
